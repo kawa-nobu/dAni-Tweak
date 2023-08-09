@@ -4,6 +4,8 @@
 dアニメを少し便利にする拡張機能です。
 
 ※ニコニコ支店は非対応です。
+
+個人で使うために作成しました。
 ## 機能
 <img width="500" src="https://github.com/kawa-nobu/dAni-Tweak/assets/44832116/63e6b666-5606-4085-a398-1a0fef3eb64a">
 
