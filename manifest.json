@@ -1,0 +1,20 @@
+{
+  "name": "dAni-Tweak",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "dアニメを便利にするやつ",
+  "icons" : {
+    "128" : "icon.png"
+  },
+  "permissions" : [
+    "contextMenus"
+  ],
+  "web_accessible_resources": [{
+    "resources": ["svg/pip.svg","svg/content_menu_icon.svg"],
+    "matches": ["https://animestore.docomo.ne.jp/*"]
+  }],
+  "content_scripts": [{
+    "matches": ["https://animestore.docomo.ne.jp/animestore/*"],
+    "js": ["content.js"]
+    }]
+  }
