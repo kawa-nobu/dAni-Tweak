@@ -6,9 +6,6 @@
   "icons" : {
     "128" : "icon.png"
   },
-  "permissions" : [
-    "contextMenus"
-  ],
   "web_accessible_resources": [{
     "resources": ["svg/pip.svg","svg/content_menu_icon.svg"],
     "matches": ["https://animestore.docomo.ne.jp/*"]
