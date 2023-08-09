@@ -1,4 +1,3 @@
-let url_parm_old = null;
 let player_init = false;
 window.addEventListener('load', function(){
     switch (location.pathname) {
