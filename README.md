@@ -17,5 +17,5 @@ dアニメを少し便利にする拡張機能です。
 * Chromiumベースのブラウザ
 
 ## 追加方法
-* Chrome Web Store (現在審査中)
-* デベロッパーモード(分かる人向け)
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/dani-tweak/cbobgglnenabfobmoiehlkofafdmagfh)
+* デベロッパーモード(手順省略)
